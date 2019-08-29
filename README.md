@@ -1,5 +1,5 @@
 # machine-learning
-Batbot Machine Learning Codes
+Batbot Machine Learning Codes and Jetson TX-2 Setup
 
 This repository uses gitflow. 
 
